@@ -1,0 +1,52 @@
+.head{
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    bottom: 10px;
+    left: 100px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 160px 100px 10px 100px ;
+}
+.container{
+    background-color: grey;
+    border: 2px solid black;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+    flex-direction: row;
+    width: 400px;
+}
+.box{
+    background-color: rgb(219, 123, 144);
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border: 2px solid black;
+    padding:0px 0px 10px 10px;
+
+}
+pre{
+    font-size: large;
+    padding: 40px 10px 10px 10px;
+}
+.box1{
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border: 2px solid black;
+    padding:10px 10px 10px 10px;
+}
+.box2{
+    background-color: rgba(240, 187, 15, 0.788);
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border: 2px solid black;
+    padding:10px 10px 10px 10px;
+}
+
